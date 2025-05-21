@@ -1,5 +1,6 @@
 # RD3G
 Residual Descent Differential Dynamic Game
+We are cleaning up our code and will release all source code with test examples soon. 
 
 This is the project page of Residual Descent Differential Dynamic Game (RD3G) to provide supplemental information to our paper.
 
