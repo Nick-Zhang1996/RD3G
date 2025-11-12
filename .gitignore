@@ -1,0 +1,9 @@
+gifs/
+pics/
+logs/
+*.swp
+__pycache__/
+*.pyc
+build/
+*.gif
+.vscode/
